@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+With a button you can turn on the four outputs one after another and then with two presses turn them out again.
 
 ## How to test
 
-Explain how to use your project
+Press the button at least six times.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+You ned something that generates current a button and something to display the outputs.
